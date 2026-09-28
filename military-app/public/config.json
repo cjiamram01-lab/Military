@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl_T": "http://localhost:8000",
-  "apiBaseUrl": "https://cos.nrru.ac.th/military-api"
+  "apiBaseUrl": "http://localhost:8000",
+  "apiBaseUrl_T": "https://cos.nrru.ac.th/military-api"
 }
 
