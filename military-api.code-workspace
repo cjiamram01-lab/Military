@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "military-api"
+		},
+		{
+			"path": "military-app"
+		},
+		{
+			"path": "../../xampp/htdocs/military"
+		}
+	],
+	"settings": {}
+}

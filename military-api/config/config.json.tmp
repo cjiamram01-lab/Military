@@ -1,0 +1,5 @@
+{"mysql_config":{"host":"localhost","user":"cjiamram" ,"password":"Bangy123#","database":"dbconference"},
+ "front_end_url":"https://nic-human.nrru.ac.th/",
+  "back_end_url":"https://cos.nrru.ac.th:8000/",
+  "line_token":"Fil7bthn5HsxA0SrXYFBjJgrWUXIvi0EwcrjDBc99cw"
+}

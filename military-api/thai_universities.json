@@ -1,0 +1,477 @@
+[
+    {
+        "id": 1,
+        "name": "http://www.ku.ac.th",
+        "url": "http://www.ku.ac.th"
+    },
+    {
+        "id": 2,
+        "name": "http://www.bu.ac.th",
+        "url": "http://www.bu.ac.th"
+    },
+    {
+        "id": 3,
+        "name": "http://www.bkkthon.ac.th",
+        "url": "http://www.bkkthon.ac.th"
+    },
+    {
+        "id": 4,
+        "name": "http://www.krirk.ac.th",
+        "url": "http://www.krirk.ac.th"
+    },
+    {
+        "id": 5,
+        "name": "http://www.kbu.ac.th",
+        "url": "http://www.kbu.ac.th"
+    },
+    {
+        "id": 6,
+        "name": "http://www.kku.ac.th",
+        "url": "http://www.kku.ac.th"
+    },
+    {
+        "id": 7,
+        "name": "http://www.chula.ac.th",
+        "url": "http://www.chula.ac.th"
+    },
+    {
+        "id": 8,
+        "name": "http://www.siu.ac.th",
+        "url": "http://www.siu.ac.th"
+    },
+    {
+        "id": 9,
+        "name": "http://www.cmu.ac.th",
+        "url": "http://www.cmu.ac.th"
+    },
+    {
+        "id": 10,
+        "name": "http://www.stjohn.ac.th",
+        "url": "http://www.stjohn.ac.th"
+    },
+    {
+        "id": 11,
+        "name": "http://www.tsu.ac.th",
+        "url": "http://www.tsu.ac.th"
+    },
+    {
+        "id": 12,
+        "name": "http://www.kmutt.ac.th",
+        "url": "http://www.kmutt.ac.th"
+    },
+    {
+        "id": 13,
+        "name": "http://www.kmutnb.ac.th",
+        "url": "http://www.kmutnb.ac.th"
+    },
+    {
+        "id": 14,
+        "name": "http://www.mut.ac.th",
+        "url": "http://www.mut.ac.th"
+    },
+    {
+        "id": 15,
+        "name": "http://www.sut.ac.th",
+        "url": "http://www.sut.ac.th"
+    },
+    {
+        "id": 16,
+        "name": "http://www.tu.ac.th",
+        "url": "http://www.tu.ac.th"
+    },
+    {
+        "id": 17,
+        "name": "http://www.dpu.ac.th",
+        "url": "http://www.dpu.ac.th"
+    },
+    {
+        "id": 18,
+        "name": "http://www.nu.ac.th",
+        "url": "http://www.nu.ac.th"
+    },
+    {
+        "id": 19,
+        "name": "http://www.buu.ac.th",
+        "url": "http://www.buu.ac.th"
+    },
+    {
+        "id": 20,
+        "name": "http://www.ptu.ac.th",
+        "url": "http://www.ptu.ac.th"
+    },
+    {
+        "id": 21,
+        "name": "http://www.payap.ac.th",
+        "url": "http://www.payap.ac.th"
+    },
+    {
+        "id": 22,
+        "name": "http://www.msu.ac.th",
+        "url": "http://www.msu.ac.th"
+    },
+    {
+        "id": 23,
+        "name": "http://www.mahidol.ac.th",
+        "url": "http://www.mahidol.ac.th"
+    },
+    {
+        "id": 24,
+        "name": "http://www.mju.ac.th",
+        "url": "http://www.mju.ac.th"
+    },
+    {
+        "id": 25,
+        "name": "http://www.rsu.ac.th",
+        "url": "http://www.rsu.ac.th"
+    },
+    {
+        "id": 26,
+        "name": "http://www.rajapark.ac.th",
+        "url": "http://www.rajapark.ac.th"
+    },
+    {
+        "id": 27,
+        "name": "http://www.ru.ac.th",
+        "url": "http://www.ru.ac.th"
+    },
+    {
+        "id": 28,
+        "name": "http://www.ait.ac.th",
+        "url": "http://www.ait.ac.th"
+    },
+    {
+        "id": 29,
+        "name": "http://www.wu.ac.th",
+        "url": "http://www.wu.ac.th"
+    },
+    {
+        "id": 30,
+        "name": "http://www.swu.ac.th",
+        "url": "http://www.swu.ac.th"
+    },
+    {
+        "id": 31,
+        "name": "http://www.spu.ac.th",
+        "url": "http://www.spu.ac.th"
+    },
+    {
+        "id": 32,
+        "name": "http://www.su.ac.th",
+        "url": "http://www.su.ac.th"
+    },
+    {
+        "id": 33,
+        "name": "http://www.psu.ac.th",
+        "url": "http://www.psu.ac.th"
+    },
+    {
+        "id": 34,
+        "name": "http://www.siamu.ac.th",
+        "url": "http://www.siamu.ac.th"
+    },
+    {
+        "id": 35,
+        "name": "http://www.stou.ac.th",
+        "url": "http://www.stou.ac.th"
+    },
+    {
+        "id": 36,
+        "name": "http://www.utcc.ac.th",
+        "url": "http://www.utcc.ac.th"
+    },
+    {
+        "id": 37,
+        "name": "http://www.hcu.ac.th",
+        "url": "http://www.hcu.ac.th"
+    },
+    {
+        "id": 38,
+        "name": "http://www.au.edu",
+        "url": "http://www.au.edu"
+    },
+    {
+        "id": 39,
+        "name": "http://www.eau.ac.th",
+        "url": "http://www.eau.ac.th"
+    },
+    {
+        "id": 40,
+        "name": "http://www.sau.ac.th",
+        "url": "http://www.sau.ac.th"
+    },
+    {
+        "id": 41,
+        "name": "http://www.ubu.ac.th",
+        "url": "http://www.ubu.ac.th"
+    },
+    {
+        "id": 42,
+        "name": "http://www.nida.ac.th",
+        "url": "http://www.nida.ac.th"
+    },
+    {
+        "id": 43,
+        "name": "http://www.kmitl.ac.th",
+        "url": "http://www.kmitl.ac.th"
+    },
+    {
+        "id": 44,
+        "name": "http://www.rmutt.ac.th",
+        "url": "http://www.rmutt.ac.th"
+    },
+    {
+        "id": 45,
+        "name": "http://www.rmutsb.ac.th",
+        "url": "http://www.rmutsb.ac.th"
+    },
+    {
+        "id": 46,
+        "name": "http://www.rmutk.ac.th",
+        "url": "http://www.rmutk.ac.th"
+    },
+    {
+        "id": 47,
+        "name": "http://www.rmutr.ac.th",
+        "url": "http://www.rmutr.ac.th"
+    },
+    {
+        "id": 48,
+        "name": "http://www.rmutp.ac.th",
+        "url": "http://www.rmutp.ac.th"
+    },
+    {
+        "id": 49,
+        "name": "http://www.rmutto.ac.th",
+        "url": "http://www.rmutto.ac.th"
+    },
+    {
+        "id": 50,
+        "name": "http://www.rmutl.ac.th",
+        "url": "http://www.rmutl.ac.th"
+    },
+    {
+        "id": 51,
+        "name": "http://www.rmuti.ac.th",
+        "url": "http://www.rmuti.ac.th"
+    },
+    {
+        "id": 52,
+        "name": "http://www.rmutsv.ac.th",
+        "url": "http://www.rmutsv.ac.th"
+    },
+    {
+        "id": 53,
+        "name": "http://www.cri.or.th",
+        "url": "http://www.cri.or.th"
+    },
+    {
+        "id": 54,
+        "name": "http://www.kpru.ac.th",
+        "url": "http://www.kpru.ac.th"
+    },
+    {
+        "id": 55,
+        "name": "http://www.kru.ac.th",
+        "url": "http://www.kru.ac.th"
+    },
+    {
+        "id": 56,
+        "name": "http://web1.rru.ac.th",
+        "url": "http://web1.rru.ac.th"
+    },
+    {
+        "id": 57,
+        "name": "http://www.mcru.ac.th",
+        "url": "http://www.mcru.ac.th"
+    },
+    {
+        "id": 58,
+        "name": "http://www.chandra.ac.th",
+        "url": "http://www.chandra.ac.th"
+    },
+    {
+        "id": 59,
+        "name": "http://www.ricr.ac.th",
+        "url": "http://www.ricr.ac.th"
+    },
+    {
+        "id": 60,
+        "name": "http://www.cmru.ac.th",
+        "url": "http://www.cmru.ac.th"
+    },
+    {
+        "id": 61,
+        "name": "http://www.cpru.ac.th",
+        "url": "http://www.cpru.ac.th"
+    },
+    {
+        "id": 62,
+        "name": "http://www.tru.ac.th",
+        "url": "http://www.tru.ac.th"
+    },
+    {
+        "id": 63,
+        "name": "http://www.dru.ac.th",
+        "url": "http://www.dru.ac.th"
+    },
+    {
+        "id": 64,
+        "name": "http://www.npru.ac.th",
+        "url": "http://www.npru.ac.th"
+    },
+    {
+        "id": 65,
+        "name": "http://www.npu.ac.th",
+        "url": "http://www.npu.ac.th"
+    },
+    {
+        "id": 66,
+        "name": "http://www.nrru.ac.th",
+        "url": "http://www.nrru.ac.th"
+    },
+    {
+        "id": 67,
+        "name": "http://www.nstru.ac.th",
+        "url": "http://www.nstru.ac.th"
+    },
+    {
+        "id": 68,
+        "name": "http://www.nsru.ac.th",
+        "url": "http://www.nsru.ac.th"
+    },
+    {
+        "id": 69,
+        "name": "http://www.bsru.ac.th",
+        "url": "http://www.bsru.ac.th"
+    },
+    {
+        "id": 70,
+        "name": "http://www.bru.ac.th",
+        "url": "http://www.bru.ac.th"
+    },
+    {
+        "id": 71,
+        "name": "http://www.pnru.ac.th",
+        "url": "http://www.pnru.ac.th"
+    },
+    {
+        "id": 72,
+        "name": "http://www.aru.ac.th",
+        "url": "http://www.aru.ac.th"
+    },
+    {
+        "id": 73,
+        "name": "http://www.psru.ac.th",
+        "url": "http://www.psru.ac.th"
+    },
+    {
+        "id": 74,
+        "name": "http://www.pbru.ac.th",
+        "url": "http://www.pbru.ac.th"
+    },
+    {
+        "id": 75,
+        "name": "http://www.pcru.ac.th",
+        "url": "http://www.pcru.ac.th"
+    },
+    {
+        "id": 76,
+        "name": "http://www.pkru.ac.th",
+        "url": "http://www.pkru.ac.th"
+    },
+    {
+        "id": 77,
+        "name": "http://www.rmu.ac.th",
+        "url": "http://www.rmu.ac.th"
+    },
+    {
+        "id": 78,
+        "name": "http://www.yru.ac.th",
+        "url": "http://www.yru.ac.th"
+    },
+    {
+        "id": 79,
+        "name": "http://www.reru.ac.th",
+        "url": "http://www.reru.ac.th"
+    },
+    {
+        "id": 80,
+        "name": "http://web1.rru.ac.th",
+        "url": "http://web1.rru.ac.th"
+    },
+    {
+        "id": 81,
+        "name": "http://www.rbru.ac.th",
+        "url": "http://www.rbru.ac.th"
+    },
+    {
+        "id": 82,
+        "name": "http://www.lpru.ac.th",
+        "url": "http://www.lpru.ac.th"
+    },
+    {
+        "id": 83,
+        "name": "http://www.lru.ac.th",
+        "url": "http://www.lru.ac.th"
+    },
+    {
+        "id": 84,
+        "name": "http://www.vru.ac.th",
+        "url": "http://www.vru.ac.th"
+    },
+    {
+        "id": 85,
+        "name": "http://www.sskru.ac.th",
+        "url": "http://www.sskru.ac.th"
+    },
+    {
+        "id": 86,
+        "name": "http://www.snru.ac.th",
+        "url": "http://www.snru.ac.th"
+    },
+    {
+        "id": 87,
+        "name": "http://www.skru.ac.th",
+        "url": "http://www.riska.ac.th"
+    },
+    {
+        "id": 88,
+        "name": "http://www.dusit.ac.th",
+        "url": "http://www.dusit.ac.th"
+    },
+    {
+        "id": 89,
+        "name": "http://www.ssru.ac.th",
+        "url": "http://www.ssru.ac.th"
+    },
+    {
+        "id": 90,
+        "name": "http://www.sru.ac.th",
+        "url": "http://www.sru.ac.th"
+    },
+    {
+        "id": 91,
+        "name": "http://www.srru.ac.th",
+        "url": "http://www.srru.ac.th"
+    },
+    {
+        "id": 92,
+        "name": "http://www.mcru.ac.th",
+        "url": "http://www.mcru.ac.th"
+    },
+    {
+        "id": 93,
+        "name": "http://www.udru.ac.th",
+        "url": "http://www.udru.ac.th"
+    },
+    {
+        "id": 94,
+        "name": "http://www.uru.ac.th",
+        "url": "http://www.uru.ac.th"
+    },
+    {
+        "id": 95,
+        "name": "http://www.ubru.ac.th",
+        "url": "http://www.ubru.ac.th"
+    }
+]

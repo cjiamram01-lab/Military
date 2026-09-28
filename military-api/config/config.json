@@ -1,0 +1,5 @@
+{
+    "mysql_config":{"host":"localhost","user":"cjiamram" ,"password":"Bangy123#","database":"db_military"},
+    "route_storage":"http://localhost:8000/attachment/get_file/",
+    "route_storage_T":"https://cos.nrru.ac.th/military-api/attachment/get_file/"
+}

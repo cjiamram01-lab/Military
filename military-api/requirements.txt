@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+PyMuPDF
+pydantic
+python-multipart
+youtube-search-python
+DateTime
+fitz
+mysql-connector-python
+requests
+
+
+http://localhost:8081/admin/modifyRegister?email=nipa.pil@pcru.ac.th

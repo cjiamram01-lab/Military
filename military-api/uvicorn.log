@@ -1,0 +1,59 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/home/sinudom22korat/server/app']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [13699] using StatReload
+INFO:     Started server process [13701]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+46
+Email sent successfully.
+INFO:     127.0.0.1:35478 - "GET /register/accepted_register/46 HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'src/endpoints/media_template.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13701]
+INFO:     Started server process [14451]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'src/models/opening_teacher.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14451]
+INFO:     Started server process [14452]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'src/endpoints/media_template.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14452]
+WARNING:  StatReload detected changes in 'src/models/media_template.py'. Reloading...
+INFO:     Started server process [14790]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'src/endpoints/content_ratio.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14790]
+INFO:     Started server process [19754]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'src/models/show_type.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [19754]
+INFO:     Started server process [19755]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'routes/api.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [19755]
+INFO:     Started server process [19756]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
